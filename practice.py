@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # UI 레이아웃 설정
 st.set_page_config(layout="wide")
